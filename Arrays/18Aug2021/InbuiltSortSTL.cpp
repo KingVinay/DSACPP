@@ -10,11 +10,11 @@ bool compare(int a , int b)
 
   
   //swap for increasing order
-  //return a < b; 
+  return a < b; 
   
   //swap for decreasing order
 
-  return a > b;
+  // return a > b;
 
 }
 
