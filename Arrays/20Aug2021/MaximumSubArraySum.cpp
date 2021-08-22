@@ -7,8 +7,8 @@ int main()
   int a[100];
   int CurrentSum=0;
   int MaxSum=0;
-  int left =-1;
-  int right =-1;
+  int left =0;
+  int right =0;
   for(int i =0;i<n;i++)
   {
     cin>>a[i];
