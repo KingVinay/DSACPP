@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+  //Maximum SubArray Sum Using Brute Force in n^3 time complexity
+
   int n;
   cin>>n;
   int a[100];
