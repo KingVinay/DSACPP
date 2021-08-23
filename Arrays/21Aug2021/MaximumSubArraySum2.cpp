@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  //Maximum SubArray Sum Using Cumulative Sum in n^2 time complexity
+  //Maximum SubArray Sum Using Cumulative Sum in O(n^2) time complexity
 
   int n;
   cin>>n;
