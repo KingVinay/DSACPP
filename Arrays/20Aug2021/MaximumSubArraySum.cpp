@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  //Maximum SubArray Sum Using Brute Force in O(n^3) time complexity
+  //Maximum SubArray Sum Using Brute Force in O(n^3) time complexity using 3 nested loops
 
   int n;
   cin>>n;
