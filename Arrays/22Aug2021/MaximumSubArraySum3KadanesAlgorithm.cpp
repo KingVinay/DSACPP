@@ -3,7 +3,7 @@ using namespace std;
 int main() 
 {
 
-  //Maximum SubArray Sum Using Kadane's Algorithm in O(n) time complexity
+  //Maximum SubArray Sum Using Kadane's Algorithm in O(n) time complexity using only 1 loop
 
  int n;
  cin>>n;
