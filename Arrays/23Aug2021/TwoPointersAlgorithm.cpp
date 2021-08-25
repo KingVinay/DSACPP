@@ -17,7 +17,7 @@ int main()
 
   // Two Pointer ALgorithm(Only on Sorted Array)Optimal Solution
 
-  int a[] = {1,3,5,7,10 ,11,12,13};
+  int a[] = {1,3,5,7,10,11,12,13};
 
   int s =16;
 
