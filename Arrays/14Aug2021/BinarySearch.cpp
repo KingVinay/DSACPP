@@ -38,19 +38,18 @@ int main()
     
     //Ask for Element we want to search
 
-    cout<< "Enter the Element you want to search : ";
-    cin>>key;
+    cout << "Enter the Element you want to search : ";
+    cin >> key;
 
     int bs = binary_search(a,n,key);
 
-    if(bs == -1){
-
-cout<<key<<" not found";
+    if(bs == -1)
+    {
+      cout<<key<<" not found";
     }
     else
     {
-
-    cout<<"Element is at index : "<<bs<<endl;
+      cout <<"Element is at index : "<< bs << endl;
     }
 
 return 0;

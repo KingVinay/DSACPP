@@ -7,7 +7,8 @@ using namespace std;
 
 void Insertion_Sort(int a[],int n)
 {
-  for(int i=1;i<=n-1;i++){
+  for(int i=1;i<=n-1;i++)
+  {
     int e = a[i];
     //place the current element at right position in the sorted part
 

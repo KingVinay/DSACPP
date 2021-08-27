@@ -12,10 +12,10 @@ int main()
   //Character Arrays direct gets printed with cout but Integer Arrays displays starting address on cout.
 
   // char ch [] = {'a','b','c','d'};
-  // cout<< ch <<endl;//Array content(special) unless you find a null character
+  // cout<< ch <<endl;//Array content(special case) unless you find a null character
 
   // int b[] ={1,2,3};
-  // cout<<b<<endl;//starting address(Default)
+  // cout<<b<<endl;//starting address(Default case)
 
   //So it is advised to add null character behind character array
 
