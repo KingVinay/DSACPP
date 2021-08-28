@@ -17,7 +17,7 @@ int main()
      for(int j=i;j<n;j++)
      {
        //Printing the elements of SubArray(i,j)
-       for(int k =i;k<=j;k++)
+       for(int k=i;k<=j;k++)
        {
          cout<<a[k]<<" ";
        }
