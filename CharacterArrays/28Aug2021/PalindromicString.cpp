@@ -1,11 +1,13 @@
 #include<iostream>
+// cstring header file for string inbuilt functions like strlen , strcpy e.t.c
 #include<cstring>
 using namespace std;
-//read a sentence /para and check if its palindrome or not
+//read a sentence/paragraph and check if its palindrome or not
 
 bool isPalindrome(char a[])
 {
   int i =0;
+  // strlen() to calculate length of string
   int j = strlen(a) - 1;
 
   while(i<j)
