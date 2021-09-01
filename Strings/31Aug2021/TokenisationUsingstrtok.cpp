@@ -6,7 +6,7 @@ using namespace std;
 
 // returns a token on each subsequent call
 
-// on the first call function should be passed with string argument for 's' 
+// on the first call function's first argument should be passed as String(s) 
 
 // Then on subsequent calls we should pass string argument as null
 
