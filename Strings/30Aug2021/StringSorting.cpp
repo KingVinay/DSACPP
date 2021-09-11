@@ -12,11 +12,11 @@ bool compare(string a , string b)
   // Comparing wrt to length of strings
 
   if(a.length()==b.length()){
-    // lexograph. increasing
+    // lexicograph. increasing
 
     return a<b;
 
-    // lexograph. decreasing
+    // lexicograph. decreasing
     // return a>b;
   }
   // for increasing sort
