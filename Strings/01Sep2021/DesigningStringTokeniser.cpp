@@ -6,8 +6,9 @@ using namespace std;
 
 char * mystrtok(char *str,char delim)
 {
-  
+  // it maintains state of function
   static char *input = NULL;
+
   if(str!=NULL)
   {
     //We are making our first call
