@@ -23,6 +23,8 @@ int main()
 
   cout<<endl;
 
+// Column Wise Traversal
+
   for(int col=0;col<n;col++)
   {
     //For even column no. this loop print row from 0 to n-1 (up to down) down wave
