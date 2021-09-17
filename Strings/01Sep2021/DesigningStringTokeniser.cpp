@@ -2,6 +2,8 @@
 #include<cstring>
 using namespace std;
 
+//String Tokeniser Designing
+
 //input of mystrtok() is string and a single char as delimiter
 
 char * mystrtok(char *str,char delim)
