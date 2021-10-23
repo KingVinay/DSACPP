@@ -11,7 +11,10 @@ char* repeatcharacter(char str[],char c,int n)
     {
         return NULL;
     }
-    
+    // Instead of Dynamic Array We can Create a Static Array too and return it as a reference
+
+    // static char a[100000]; 
+
     char* a = new char[m+n];
     
     for(int i=0;i<m/2;i++)
