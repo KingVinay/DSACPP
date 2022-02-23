@@ -30,7 +30,7 @@ int main()
   }
   //Sort an Array using sort()Function , it is more efficient
 
-  sort(a,a+n,compare);
+  sort(a,a+n,compare); 
 
   for(int i =0; i<n;i++)
   {
